@@ -5,6 +5,6 @@ Springboard is an online coding school offering online, flexible, mentor-led cou
 
 The Major Capstone projects are designed to give participants a platform to implement their skills in problems of their choosing with guidance from in-depth knowledge of mentors who are in the industry
 
-I am very interested and enthusiastic about the upcoming revolutionary wave of Artificial Intelligence which I beilieve will be helping humans in every aspect of any job that does not require high levels of creativity. Wether it be in engineering, sciences, finance or even arts, Artificial Intelligence can improve the way we can do things by many orders of magnitude and give us access to tools that were thought to be impossible when they could only be done by humans. 
+I am very interested and enthusiastic about the upcoming revolutionary wave of Artificial Intelligence which I beilieve will be helping humans in every aspect of any job that does not require high levels of creativity. Wether it be in engineering, sciences, finance or even arts, Artificial Intelligence can improve the way we interact with the job at hand by many orders of magnitude and give us access to tools that were thought to be impossible when they could only be done by humans. 
 
 
